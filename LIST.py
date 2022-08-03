@@ -1,0 +1,11 @@
+list=[10,20,30,40,50,60,70]
+print(list[0])
+print(list[2])
+print(list[1:2])
+print(list[1:7])
+print(list[2:])
+tuple=("name","id","branch",1,2,3,4,5,6,7)
+print(tuple)
+print(tuple[2])
+print(tuple[6])
+print(tuple[1:])
